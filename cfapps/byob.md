@@ -16,7 +16,7 @@ External buildpacks are provided by the Cloud Foundry community for you to use a
 
 ## Built-in community buildpacks
 
-In {{site.data.keyword.Bluemix_notm}}, you can use built-in buildpacks that are provided by the Cloud Foundry community. To see built-in community buildpacks, run the cf buildpacks command:
+In {{site.data.keyword.Bluemix_notm}}, you can use built-in buildpacks that are provided by the Cloud Foundry community. To see built-in community buildpacks, run the cf buildpacks command:  
 
 ```
 cf buildpacks
